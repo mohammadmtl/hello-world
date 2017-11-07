@@ -1,2 +1,2 @@
 # hello-world
-test repasitory in git
+test repository in git
